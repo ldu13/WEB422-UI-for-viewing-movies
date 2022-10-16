@@ -1,5 +1,3 @@
-
-
 import useSWR from 'swr';
 import { useState, useEffect} from 'react';
 import { Pagination, Accordion } from 'react-bootstrap';
